@@ -13,4 +13,5 @@ How to Build/Use:
 3) All bot commands will be shown in the bot description
 4) If needed, the join link for the repl is: https://replit.com/join/pjnlmtpsbw-cho2n, simply click the run button and test bot on Telegram
 
-
+Important:
+1) Please ensure the following packages are installed: pyTelegramBotAPI (4.0.0), Flask (2.0.1), telebot (0.0.4)
