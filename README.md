@@ -1,0 +1,2 @@
+# bot
+Submission for MindfulHacks
