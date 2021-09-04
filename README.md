@@ -1,4 +1,4 @@
-# bot
+# TeleMeEverything Bot
 Submission for MindfulHacks
 Telegram Bot: TeleMeEverything
 Done By: Sim Choon Han, Rachel Ong Jing Min, Tan Hui Wen, Wayne Lee Kwok En
