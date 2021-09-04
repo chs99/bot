@@ -8,9 +8,9 @@ This bot serves to highlight and collate some useful mental health resources and
 
 
 How to Build/Use:
-1) All .py files can be imported to repl and can be run from there 
-2) Ensure you have Telegram installed
-3) Click on "https://t.me/TeleEverything_bot"
-4) All bot commands will be shown in the bot description
+1) Ensure you have Telegram installed
+2) Click on "https://t.me/TeleEverything_bot"
+3) All bot commands will be shown in the bot description
+4) If needed, the join link for the repl is: https://replit.com/join/pjnlmtpsbw-cho2n, simply click the run button and test bot on Telegram
 
 
